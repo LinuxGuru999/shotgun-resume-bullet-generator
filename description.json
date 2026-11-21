@@ -1,0 +1,23 @@
+{
+  "overview": "Resume Bullet Generator is a digital prompt pack that helps students turn vague class, internship, volunteer, or project experience into clear, action-oriented resume bullets. It includes action-verb lists, STAR framing prompts, and questions that help uncover metrics such as hours saved, people reached, or results improved. It is a writing aid, not a guarantee of interviews or job offers.",
+  "usecases": [
+    "A student has only \"helped with club events\" and needs a bullet showing planning, attendance, and impact.",
+    "An internship description is a list of tasks, and the student wants to frame work around a specific problem, action, and result.",
+    "A volunteer role has no obvious numbers, so the prompts help estimate scope, frequency, or audience size honestly."
+  ],
+  "howto": [
+    "Download the files and open the prompt pack in your preferred notes or writing app.",
+    "Paste a vague experience into the STAR prompts and answer the metric-finding questions without exaggerating.",
+    "Select an action verb, draft two bullet options, then edit for accuracy and your resume's style."
+  ],
+  "faq": [
+    {
+      "q": "Will this write my resume for me?",
+      "a": "No; it provides prompts and wording options, but you must choose accurate details and edit the final bullets."
+    },
+    {
+      "q": "Can I use it if I have no metrics?",
+      "a": "Yes; it includes questions to help estimate honest scope or results, but not every bullet needs a number."
+    }
+  ]
+}
